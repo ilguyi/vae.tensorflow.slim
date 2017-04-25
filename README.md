@@ -64,12 +64,14 @@ $ ./generate.sh batch_size (the number of images you want)
 
 ## Results
 ### MNIST datasets
-Epoch 1
+Epoch 1\\
 ![assets](assets/vae_1_epoch.png)
     
-Epoch 100
+Epoch 100\\
 ![assets](assets/vae_100_epoch.png)
 
+gif file\\
+![assets](assets/generated_images.gif)
 
 ## References
 #### Papers
@@ -85,8 +87,8 @@ Epoch 100
   <http://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder>
 
 
-## My presentation file (ModuLabs, DeepLAB)
-
+## My presentation file (DeepLAB in ModuLabs)
+* <http://www.modulabs.co.kr/DeepLAB_library/13347>
 
 
 ## Author
