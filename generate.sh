@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Working directory
-WORKING_DIR=$HOME/projects
+WORKING_DIR=$HOME/projects/tensorflow/vae
 
 # Where the training (fine-tuned) checkpoint and logs will be saved to.
 TRAIN_DIR=$WORKING_DIR/vae.tensorflow.slim/exp1
 
 batch=$1
 
-#CUDA_VISIBLE_DEVICES=2 \
+CUDA_VISIBLE_DEVICES=1 \
 python generate.py \
     --checkpoint_path=${TRAIN_DIR} \
     --checkpoint_step=-1 \
