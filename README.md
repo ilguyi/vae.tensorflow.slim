@@ -64,13 +64,16 @@ $ ./generate.sh batch_size (the number of images you want)
 
 ## Results
 ### MNIST datasets
-Epoch 1\\
+Epoch 1
+
 ![assets](assets/vae_1_epoch.png)
     
-Epoch 100\\
+Epoch 100
+
 ![assets](assets/vae_100_epoch.png)
 
-gif file\\
+Gif
+
 ![assets](assets/generated_images.gif)
 
 ## References
