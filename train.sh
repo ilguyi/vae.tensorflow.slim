@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Working directory
-WORKING_DIR=$HOME/projects/tensorflow/vae
+WORKING_DIR=$HOME/projects
 
 # Where the training (fine-tuned) checkpoint and logs will be saved to.
 TRAIN_DIR=$WORKING_DIR/vae.tensorflow.slim/exp1
