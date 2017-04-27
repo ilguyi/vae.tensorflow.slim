@@ -79,15 +79,15 @@ Gif
 ## References
 #### Papers
 * Diederik P. Kingma, Max Welling. Auto-Encoding Variational Bayes.
-[https://arxiv.org/abs/1312.6114](arXiv: 1312.6114)
+  [arXiv: 1312.6114](https://arxiv.org/abs/1312.6114)
 * Carl Doersch. Tutorial on Variational Autoencoders.
-[http://arxiv.org/abs/1606.05908](arXiv: 1606.05908)
+  [arXiv: 1606.05908](http://arxiv.org/abs/1606.05908)
 
 #### Blogs
-* Tutorial - What is a variational autoencoder?\\
-  <https://jaan.io/what-is-variational-autoencoder-vae-tutorial>
-* Variational Autoencoder: Intuition and Implementation.\\
-  <http://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder>
+* Tutorial - What is a variational autoencoder? 
+  (<https://jaan.io/what-is-variational-autoencoder-vae-tutorial>)
+* Variational Autoencoder: Intuition and Implementation 
+  (<http://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder>)
 
 
 ## My presentation file (DeepLAB in ModuLabs)
